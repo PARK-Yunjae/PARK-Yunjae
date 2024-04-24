@@ -12,19 +12,23 @@
 ---
 
 ### 참여 프로젝트 
-1. [Ganju - 간단한주문](https://yeonmitc.github.io/)
-2. [EYEVEL - 눈으로 보는 사이트](about:blank)
-3. [ProjectMomizi](about:blank)
-4. [SUDOKU 만들기](배포링크)
+1. [Ganju - 간단한주문](https://dbswoql.tistory.com/205)
+2. [EYEVEL - 눈으로 보는 사이트](https://dbswoql.tistory.com/91)
+3. [ProjectMomizi](https://dbswoql.tistory.com/70)
+4. [SUDOKU 만들기](https://dbswoql.tistory.com/25)
 
 ---
 
 ### 보유 기술 
 
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <br>
 
@@ -35,16 +39,6 @@
       <td>
         <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트1">
           <img align="center" src="https://github.com/pyeonm30/pyeonm30/blob/main/upload/project1.gif?raw=true" width="300px" >
-        </a>
-      </td>
-      <td>
-      <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트2">
-          <img align="center" src="https://github.com/pyeonm30/pyeonm30c/blob/main/upload/profile.PNG?raw=true" width="300px" >
-        </a>
-      </td>
-      <td>
-       <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트3">
-          <img align="center" src="https://github.com/pyeonm30/pyeonm30c/blob/main/upload/profile.PNG?raw=true" width="300px" >
         </a>
       </td>
     </tr>
