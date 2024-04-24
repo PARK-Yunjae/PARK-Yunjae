@@ -37,8 +37,29 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://www.youtube.com/watch?v=u6PCW3yc5N8&feature=youtu.be" title="Ganju">
-          <img align="center" src="https://github.com/pyeonm30/pyeonm30/blob/main/upload/project1.gif?raw=true" width="300px" >
+        <a href="https://youtu.be/u6PCW3yc5N8" title="Ganju">
+          <img align="center" src="https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/Ganju.gif?raw=true" width="300px" >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://youtu.be/ON_YWsFCjI8" title="EYEVEL">
+          <img align="center" src="https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/EYEVEL.gif?raw=true" width="300px" >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://youtu.be/u925ZkJL9BM" title="ProjectMomizi">
+          <img align="center" src="https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/ProjectMomizi.gif?raw=true" width="300px" >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://youtu.be/JmUIUEzKjbQ" title="Sudoku">
+          <img align="center" src=https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/Sudoku.gif?raw=true" width="300px" >
         </a>
       </td>
     </tr>
