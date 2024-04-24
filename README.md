@@ -38,7 +38,7 @@
     <tr>
       <td>
         <a href="https://youtu.be/u6PCW3yc5N8" title="Ganju">
-          <img align="center" src="https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/Ganju.gif?raw=true" width="300px" >
+          <img align="center" src="https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/Ganju.?raw=true" width="300px" >
         </a>
       </td>
     </tr>
