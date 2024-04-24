@@ -37,7 +37,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트1">
+        <a href="https://www.youtube.com/watch?v=u6PCW3yc5N8&feature=youtu.be" title="Ganju">
           <img align="center" src="https://github.com/pyeonm30/pyeonm30/blob/main/upload/project1.gif?raw=true" width="300px" >
         </a>
       </td>
