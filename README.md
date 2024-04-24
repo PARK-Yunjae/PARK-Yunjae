@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/upload/profile.png" width="100"/>
+<img align="center" src="https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/profile.png" width="100"/>
 <br>
 
 ### 박윤재
