@@ -38,28 +38,28 @@
     <tr>
       <td>
         <a href="https://youtu.be/u6PCW3yc5N8" title="Ganju">
-          <img align="center" src="https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/Ganju.?raw=true" width="300px" >
+          <img align="center" src="https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/Ganju.png?raw=true" width="300px" >
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://youtu.be/ON_YWsFCjI8" title="EYEVEL">
-          <img align="center" src="https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/EYEVEL.gif?raw=true" width="300px" >
+          <img align="center" src="https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/EYEVEL.png?raw=true" width="300px" >
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://youtu.be/u925ZkJL9BM" title="ProjectMomizi">
-          <img align="center" src="https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/ProjectMomizi.gif?raw=true" width="300px" >
+          <img align="center" src="https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/ProjectMomizi.png?raw=true" width="300px" >
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://youtu.be/JmUIUEzKjbQ" title="Sudoku">
-          <img align="center" src=https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/Sudoku.gif?raw=true" width="300px" >
+          <img align="center" src=https://github.com/PARK-Yunjae/PARK-Yunjae/blob/main/Sudoku.png?raw=true" width="300px" >
         </a>
       </td>
     </tr>
